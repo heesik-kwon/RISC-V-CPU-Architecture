@@ -64,7 +64,7 @@ module alu (
 );
 
     // RV32의 최대 shift양은 5bit
-    logic [4:0] s_a = b[4:0];
+    wire [4:0] s_a = b[4:0];
 
     always_comb begin
         case (alu_ctrl)
