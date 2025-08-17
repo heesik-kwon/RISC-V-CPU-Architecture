@@ -1,0 +1,19 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sim_1/new/tb_rv32i_core.sv,1755393418,systemVerilog,,,,tb_rv32i_core,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ArithmeticLogicUnit.sv,1755212307,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ControlUnit.sv,,alu,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ControlUnit.sv,1755222978,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/DataPath.sv,,ControlUnit,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/DataPath.sv,1755222739,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ImmediateExtend.sv,,DataPath,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ImmediateExtend.sv,1755222267,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/LoadDataProcessor.sv,,ImmediateExtend,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/LoadDataProcessor.sv,1755212584,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/MCU.sv,,LoadDataProcessor,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/MCU.sv,1755393215,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/Multiplexer.sv,,MCU,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/Multiplexer.sv,1755102281,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ProgramCounter.sv,,mux_2x1;mux_3x1,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ProgramCounter.sv,1755101715,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RAM.sv,,adder;register,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RAM.sv,1755393035,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ROM.sv,,RAM,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/ROM.sv,1755392903,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RV32I_Core.sv,,ROM,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RV32I_Core.sv,1755223133,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RegisterFile.sv,,RV32I_Core,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/RegisterFile.sv,1755101932,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/StoreMerger.sv,,RegisterFile,,uvm,,,,,,
+C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sources_1/new/StoreMerger.sv,1755222464,systemVerilog,,C:/Users/Levi/Desktop/rv32/RISC_V_CPU/RISC_V_CPU.srcs/sim_1/new/tb_rv32i_core.sv,,StoreMerger,,uvm,,,,,,
